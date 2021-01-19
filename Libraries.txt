@@ -1,0 +1,7 @@
+Required Libraries
+
+Matplotlib      -> pip install matplotlib
+Numpy           -> pip install numpy
+cv2            	     -> pip install opencv-python
+sklearn           -> pip install sklearn
+scikit-image  -> pip install scikit-image
